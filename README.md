@@ -1,2 +1,2 @@
 # hci-project-
-Asissted visual intillegence
+Assisted visual intillegence
